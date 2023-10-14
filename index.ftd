@@ -5,9 +5,9 @@
 -- ds.page:
 sidebar: false
 blog: true
-site-name: Sayak
+site-name: Mohit
 
--- landing.hero-with-image: Hi! I am Sayak
+-- landing.hero-with-image: Hi! I am Mohit
 link: /
 cta-primary: Hire me
 cta-primary-link: /
@@ -15,9 +15,7 @@ cta-secondary: How it works
 cta-secondary-link: /
 image: $assets.files.images.photo.jpg
 
-I'm an India based developer with a goal-driven creative mindset and passion for learning and innovating.
-
-Besides, I always opt for oppurtunities where I can solve problems with my knowledge and coding skills.
+I have a knack for problem-solving, whether it's identifying and resolving bugs, building software, or crafting engaging competitive programming problems.
 
 
 -- end: ds.page
